@@ -2,7 +2,7 @@
 
 This Project is created using Pure Python and Weather API.
 
-<b>Note:</b> - pip install pypiwin32, pip install requests (required modules to install)
+<b>Note</b> - pip install pypiwin32, pip install requests (required modules to install)
 
 <b>Steps to run:</b>
 1. You just need to run the <b><a href="https://github.com/MSunny-149/say-weather-app/blob/e27f77ece28a95d39df84edd207e23371612536f/SayWeatherApp.py">SayWeatherApp.py</a></b> code in terminal.<br>
