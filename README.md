@@ -1,6 +1,6 @@
 # Information on say-weather-app
 
-This Project is created using pure python.
+This Project is created using Pure Python and Weather API.
 
 <b>Note:</b> - pip install pypiwin32, pip install requests (required modules to install)
 
