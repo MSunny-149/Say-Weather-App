@@ -12,6 +12,7 @@ speaker = win32com.client.Dispatch("SAPI.SpVoice")
 
 
 # Weather Code
+# pip install requests
 import requests
 speaker.Speak("Enter City Name: ")
 city = input("Enter City Name: ")
