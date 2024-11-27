@@ -30,4 +30,6 @@ try:
     speaker.Speak(weatherText)
 
 except:
-    print("Please Turn On Your Internet and Try Again.")
+    internetOffMssg = "Please Turn On Your Internet and Try Again."
+    speaker.Speak(internetOffMssg)
+    print(internetOffMssg)
