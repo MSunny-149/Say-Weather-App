@@ -19,13 +19,14 @@ Enter City Name: Ahmedabad
 ```
 3. Just it, Now you'll hear as well as read the weather details.
 ```python
-The current weather of Ahmedabad is 20.3 degree celcius.
+The current weather of Ahmedabad is 19.5 degree celcius with an AQI of 105 which is Unhealthy.
 ```
 
 ## Versions
 There are two versions as of now, but the working is same, I just updated the API to get more accurate temperature. Click below to navigate versions.
 - [SayWeatherApp v1.0](https://github.com/MSunny-149/say-weather-app/blob/main/v1.0/SayWeatherApp.py)
 - [SayWeatherApp v1.1](https://github.com/MSunny-149/say-weather-app/blob/main/v1.1/SayWeatherApp.py)
+- [SayWeatherApp v1.2](https://github.com/MSunny-149/say-weather-app/blob/main/v1.2/SayWeatherApp.py)
 
-Credits - weatherapi.com (v1.0), open-meteo.com (v1.1)<br>
+Credits - weatherapi.com (v1.0), open-meteo.com (v1.1, v1.2)<br>
 Copyright - [Sunny Modi](https://github.com/MSunny-149) (Use of this project is copyrighted, Ping/Credit Me before use)
