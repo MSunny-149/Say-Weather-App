@@ -12,14 +12,20 @@ try:
 
 
 
-    # Weather Code
-    # pip install requests
-    import requests
     speaker.Speak("Enter City Name: ")
     city = input("Enter City Name: ")
+    # Weather API Code (Old API)
     url = f"https://api.weatherapi.com/v1/current.json?key=a3c511a0e6984172824182114242611&q={city}&aqi=yes"
+
+
+
+    # Internet Code
+    # pip install requests
+    import requests
     resp = requests.get(url)
     # print(resp.text)
+
+
 
     # Convert String resp.text (Response) data into Dictionary/JSON
     import json
